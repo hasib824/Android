@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MyService extends IntentService {
 
-    Long time ;
+    Long time ; boolean flag = false; // Flag to detect if the Service completed OR user Forefully stop the service
 
     public MyService() {
         super("Has");
@@ -28,8 +28,12 @@ public class MyService extends IntentService {
 
     @Override
     public void onDestroy() {
+        if(flag) //
+        {
+            Intent localIntent = new Intent("broadcast");
+            LocalBroadcastManager.getInstance(this).sendBroadcast(localIntent);
+        }
         Toast.makeText(this, "Service Ending", Toast.LENGTH_SHORT).show();
-        stopSelf();
         super.onDestroy();
 
     }
@@ -42,11 +46,7 @@ public class MyService extends IntentService {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
-
-        Intent localIntent = new Intent("broadcast");
-        LocalBroadcastManager.getInstance(this).sendBroadcast(localIntent);
-
+        flag = true; // Service completed Successfully
         // Code will come to here after task completion , If interrupted , below section Doesn't run
         Log.e("Service Completed","Service");
        // Toast.makeText(this, "Service completed", Toast.LENGTH_SHORT).show();

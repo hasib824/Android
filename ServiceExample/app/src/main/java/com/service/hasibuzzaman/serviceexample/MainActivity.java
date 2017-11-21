@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this,MyService.class);
         final String trim = timeInput.getText().toString().trim();
         timeInput.clearFocus();
-        long time = Long.parseLong(trim); time *=60*1000;
+        long time = Long.parseLong(trim); time *=1000; // seconds
         intent.putExtra("time",time);
          startService(intent);
     }
