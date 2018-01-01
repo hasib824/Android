@@ -12,23 +12,24 @@
         android:id="@+id/time"
         android:layout_width="wrap_content"
         android:layout_height="49dp"
-        android:layout_marginTop="185dp"
+        android:layout_marginTop="320dp"
         android:ems="10"
-        android:hint="normal"
+        android:hint="xhdpi"
         android:inputType="numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.009"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/start"
-        android:onClick="Start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="45dp"
+        android:layout_marginTop="48dp"
+        android:onClick="Start"
         android:text="Start"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.004"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/time" />
 

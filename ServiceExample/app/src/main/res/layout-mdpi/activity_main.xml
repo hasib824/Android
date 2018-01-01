@@ -12,14 +12,13 @@
         android:id="@+id/time"
         android:layout_width="wrap_content"
         android:layout_height="49dp"
-        android:layout_marginTop="185dp"
         android:ems="10"
-        android:hint="normal"
+        android:hint="mdpi"
         android:inputType="numberDecimal"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/start"
