@@ -1,0 +1,3 @@
+Create new Database User 
+https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line
+
