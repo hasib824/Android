@@ -22,3 +22,7 @@
 
   **TabLayout**
    - [1](https://www.youtube.com/watch?v=zcnT-3F-9JA)
+
+
+   **Important Topics**
+   -  Send Sms at runtime by [Reyjohn](http://www.androidrey.com/run-time-permission-request-in-marshmallow/)
