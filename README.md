@@ -26,3 +26,5 @@
 
    **Important Topics**
    -  Send Sms at runtime by [Reyjohn](http://www.androidrey.com/run-time-permission-request-in-marshmallow/)
+
+   -  Very nice SqliteDatabase [tutorial](https://hellohasan.com/2017/11/15/android-sqlite-database-tutorial-introduction/) by Hasan Abdullah
