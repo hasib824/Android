@@ -4,6 +4,7 @@
   - [Android Hive](https://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/)
 
 **Retrofit Rest api service**
+ - Hasan Abdullah [blog](https://hellohasan.com/2016/12/03/android-retrofit-get-post-method/)
  - [Vogella](http://www.vogella.com/tutorials/Retrofit/article.html)
  - [Square wiki](https://github.com/square/retrofit/wiki/Retrofit-Tutorials)
 
@@ -25,6 +26,8 @@
 
 
    **Important Topics**
-   -  Send Sms at runtime by [Reyjohn](http://www.androidrey.com/run-time-permission-request-in-marshmallow/)
+   -  Send Sms at runtime by [Reyjohn](http://www.androidrey.com/run-time-permission-request-in-marshmallow/)  
 
    -  Very nice SqliteDatabase [tutorial](https://hellohasan.com/2017/11/15/android-sqlite-database-tutorial-introduction/) by Hasan Abdullah
+
+   - Content Provider to get All Contacts [tutorial](https://www.youtube.com/watch?v=-4GgzqMVrYc&list=PLfuE3hOAeWhb7kirY4rBtTLVF73jEXwG4)
