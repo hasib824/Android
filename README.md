@@ -31,3 +31,7 @@
    -  Very nice SqliteDatabase [tutorial](https://hellohasan.com/2017/11/15/android-sqlite-database-tutorial-introduction/) by Hasan Abdullah
 
    - Content Provider to get All Contacts [tutorial](https://www.youtube.com/watch?v=-4GgzqMVrYc&list=PLfuE3hOAeWhb7kirY4rBtTLVF73jEXwG4)
+
+   - Click link to start App , App linking [tutorial](https://developer.android.com/studio/write/app-link-indexing.html)
+
+   - Google Map tutorila on [youtube](https://www.youtube.com/watch?v=r7elRDUFJTU)
