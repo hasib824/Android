@@ -28,10 +28,14 @@
    **Important Topics**
    -  Send Sms at runtime by [Reyjohn](http://www.androidrey.com/run-time-permission-request-in-marshmallow/)  
 
+   - Get user [Location](https://developer.android.com/training/location/retrieve-current.html)
+
    -  Very nice SqliteDatabase [tutorial](https://hellohasan.com/2017/11/15/android-sqlite-database-tutorial-introduction/) by Hasan Abdullah
 
    - Content Provider to get All Contacts [tutorial](https://www.youtube.com/watch?v=-4GgzqMVrYc&list=PLfuE3hOAeWhb7kirY4rBtTLVF73jEXwG4)
 
    - Click link to start App , App linking [tutorial](https://developer.android.com/studio/write/app-link-indexing.html)
 
-   - Google Map tutorila on [youtube](https://www.youtube.com/watch?v=r7elRDUFJTU)
+   - Google Map tutorial on [youtube](https://www.youtube.com/watch?v=r7elRDUFJTU)
+
+   - Get a Google map Direction Api key from this [link] (https://developers.google.com/maps/documentation/directions/start)
