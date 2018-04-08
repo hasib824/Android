@@ -1,4 +1,12 @@
 # Android
+
+**General Important Topics**
+  - Debug App by a device over Wi-Fi
+    - First get adb.exe path and add it to to environmental variable , following this [link](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or/20564601)
+    - then Connect Device by following this [link](https://developer.android.com/studio/command-line/adb.html#wireless)
+
+
+
 **Send android app data to PHP MYSQl datbase**
   - [tutorial](https://androidjson.com/android-php-send-data-mysql-database/)
   - [Android Hive](https://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/)
@@ -49,6 +57,6 @@
 
   ** Firebase and Location Queries**
 
-  - Firebase basic [setup](https://firebase.google.com/docs/database/android/start/) 
+  - Firebase basic [setup](https://firebase.google.com/docs/database/android/start/)
   - Geofire [official](https://github.com/firebase/geofire)\
   - Firebase and geofire to serch peoples within given radious [tutorial](https://www.youtube.com/watch?v=jvhD7-q45_w&list=PLaoF-xhnnrRULoWAGjWJ79-BwD1mAMwB0&index=8)
