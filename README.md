@@ -1,5 +1,10 @@
 # Android
 
+** Skill Development Links **
+  - Techbeacon blog [post](https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips)
+  - Some open source [projects](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4) to read 
+
+
 **General Important Topics**
   - **Debug App by a device over Wi-Fi**
     - First get adb.exe path and add it to to environmental variable , following this [link](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or/20564601)
