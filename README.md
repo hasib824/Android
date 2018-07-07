@@ -12,6 +12,7 @@
 	
 **android localization Language support*	
 	- https://developer.android.com/studio/write/translations-editor?utm_source=android-studio
+	- for changing language intutively [link] (https://javapapers.com/android/android-app-with-multi-language-support/)
 	
 
 **Send android app data to PHP MYSQl datbase**
