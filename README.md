@@ -10,7 +10,7 @@
     - First get adb.exe path and add it to to environmental variable , following this [link](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or/20564601)
     - then Connect Device by following this [link](https://developer.android.com/studio/command-line/adb.html#wireless)
 	
-**Language support*	
+**android localization Language support*	
 	- https://developer.android.com/studio/write/translations-editor?utm_source=android-studio
 	
 
