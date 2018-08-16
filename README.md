@@ -2,18 +2,18 @@
 
 ** Skill Development Links **
   - Techbeacon blog [post](https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips)
-  - Some open source [projects](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4) to read 
+  - Some open source [projects](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4) to read
 
 
 **General Important Topics**
   - **Debug App by a device over Wi-Fi**
     - First get adb.exe path and add it to to environmental variable , following this [link](https://stackoverflow.com/questions/20564514/adb-is-not-recognized-as-an-internal-or-external-command-operable-program-or/20564601)
     - then Connect Device by following this [link](https://developer.android.com/studio/command-line/adb.html#wireless)
-	
-**android localization Language support*	
-	- https://developer.android.com/studio/write/translations-editor?utm_source=android-studio
-	- for changing language intutively [link] (https://javapapers.com/android/android-app-with-multi-language-support/)
-	
+
+
+**Android localization Language support**
+  - Official [link](https://developer.android.com/studio/write/translations-editor?utm_source=android-studio)
+  - For changing layout Intutively [link](https://javapapers.com/android/android-app-with-multi-language-support/)
 
 **Send android app data to PHP MYSQl datbase**
   - [tutorial](https://androidjson.com/android-php-send-data-mysql-database/)
@@ -50,7 +50,7 @@
    - Firebase Notification using php mysql
     - Youtube [video](https://www.youtube.com/watch?v=LiKCEa5_Cs8)
     - Hasan Abdullah [blog](https://hellohasan.com/2017/04/04/android-firebase-push-notification-php-backend/)
-    - Android hiVe [blog](https://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/)
+    -AndroidhiVe [blog](https://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/)
 
 
 
@@ -66,5 +66,11 @@
   ** Firebase and Location Queries**
 
   - Firebase basic [setup](https://firebase.google.com/docs/database/android/start/)
-  - Geofire [official](https://github.com/firebase/geofire)\
+  - Geofire [official](https://github.com/firebase/geofire)
   - Firebase and geofire to serch peoples within given radious [tutorial](https://www.youtube.com/watch?v=jvhD7-q45_w&list=PLaoF-xhnnrRULoWAGjWJ79-BwD1mAMwB0&index=8)
+
+
+  ** Data Binding **
+  - PrabeeshR youtube [link](https://www.youtube.com/watch?v=_luUjCPG-Pc)
+  - Vogella blog [post](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
+  - CodingWithMitch youtube (this is best) [Link](https://www.youtube.com/watch?v=v4XO_y3RErI)
