@@ -74,3 +74,9 @@
   - PrabeeshR youtube [link](https://www.youtube.com/watch?v=_luUjCPG-Pc)
   - Vogella blog [post](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
   - CodingWithMitch youtube (this is best) [Link](https://www.youtube.com/watch?v=v4XO_y3RErI)
+
+
+  ** RxJava **
+
+  - AndroidhiVe [Tutorial](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
+   
