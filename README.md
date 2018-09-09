@@ -72,11 +72,11 @@
 
   ** Data Binding **
   - PrabeeshR youtube [link](https://www.youtube.com/watch?v=_luUjCPG-Pc)
-  - Vogella blog [post](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
+  - Vogella blog databinding with recyclerview [post](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
   - CodingWithMitch youtube (this is best) [Link](https://www.youtube.com/watch?v=v4XO_y3RErI)
+  - Two way databinding [link](https://www.bignerdranch.com/blog/two-way-data-binding-on-android-observing-your-view-with-xml/)
 
 
   ** RxJava **
 
   - AndroidhiVe [Tutorial](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
-   
