@@ -77,6 +77,15 @@
   - Two way databinding [link](https://www.bignerdranch.com/blog/two-way-data-binding-on-android-observing-your-view-with-xml/)
 
 
-  ** RxJava **
+  ** MVVM Architecture **
+  - Florina's post on [medium](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 
+
+  ** Architectural Component **
+
+  - Livedata blog [post](http://www.zoftino.com/android-livedata-examples)
+
+
+  ** RxJava **
+  - Mindorks Tutorial [link](https://mindorks.com/course/learn-rxjava/chapter/id/2/page/id/7)
   - AndroidhiVe [Tutorial](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
