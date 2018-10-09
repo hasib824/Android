@@ -75,6 +75,7 @@
 
 
   ** Data Binding **
+  - ShahRiar Anwar Shishir video [link](https://www.youtube.com/watch?v=6kNC-KCvcKM&list=PL8mYmWXH-4mOyYfIGa_PyxSaUH35MVWZX)
   - PrabeeshR youtube [link](https://www.youtube.com/watch?v=_luUjCPG-Pc)
   - Vogella blog databinding with recyclerview [post](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
   - CodingWithMitch youtube (this is best) [Link](https://www.youtube.com/watch?v=v4XO_y3RErI)
