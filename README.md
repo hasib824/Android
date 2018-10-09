@@ -1,9 +1,12 @@
 # Android
 
 ** Skill Development Links **
-  - Guideline to become a good Android Developer [link](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) 
+  - Guideline to become a good Android Developer [link](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
   - Techbeacon blog [post](https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips)
   - Some open source [projects](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4) to read
+
+** Interview Preparation Link **
+  - Mindorks [resource](https://github.com/MindorksOpenSource/android-interview-questions)
 
 
 **General Important Topics**
