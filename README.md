@@ -17,7 +17,9 @@
 
 **Android localization Language support**
   - Official [link](https://developer.android.com/studio/write/translations-editor?utm_source=android-studio)
-  - For changing layout Intutively [link](https://javapapers.com/android/android-app-with-multi-language-support/)
+  - For changing layout Intutively
+    - [1st and best ](https://proandroiddev.com/change-language-programmatically-at-runtime-on-android-5e6bc15c758)
+    -  [2nd](https://javapapers.com/android/android-app-with-multi-language-support/)
 
 **Send android app data to PHP MYSQl datbase**
   - [tutorial](https://androidjson.com/android-php-send-data-mysql-database/)
