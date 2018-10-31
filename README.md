@@ -1,7 +1,7 @@
 # Android
 
 ** Skill Development Links **
-  - Android development training by [google](https://developers.google.com/training/android/) 
+  - Android development training by [google](https://developers.google.com/training/android/)
   - Guideline to become a good Android Developer [link](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d)
   - Techbeacon blog [post](https://techbeacon.com/how-become-better-android-developer-30-bite-sized-pro-tips)
   - Some open source [projects](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4) to read
@@ -98,3 +98,7 @@
   - Mindorks Tutorial [link](https://mindorks.com/course/learn-rxjava/chapter/id/2/page/id/7)
   - Resources on [Quora](https://www.quora.com/What-is-the-best-way-to-learn-RxJava-for-Android)
   - AndroidhiVe [Tutorial](https://www.androidhive.info/RxJava/android-getting-started-with-reactive-programming/)
+
+
+  ** Music player **
+  - Music player series [tutorial](http://sapandiwakar.in/building-a-music-player-app-for-android/)
