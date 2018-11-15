@@ -102,3 +102,7 @@
 
   ** Music player **
   - Music player series [tutorial](http://sapandiwakar.in/building-a-music-player-app-for-android/)
+
+  **Thread pool Executor **
+  - [androidpub](https://android.jlelse.eu/executor-framework-understanding-the-basics-43d575e72310)
+  - [Mindorks](https://blog.mindorks.com/threadpoolexecutor-in-android-8e9d22330ee3)
