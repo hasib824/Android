@@ -107,3 +107,7 @@
 ** Thread pool Executor **
   - [androidpub](https://android.jlelse.eu/executor-framework-understanding-the-basics-43d575e72310)
   - [Mindorks](https://blog.mindorks.com/threadpoolexecutor-in-android-8e9d22330ee3)
+
+
+** Guide to add Credits/Acknowledgement on app **
+  - Bignerdranch blog [post](https://www.bignerdranch.com/blog/open-source-licenses-and-android/)
