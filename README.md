@@ -71,7 +71,6 @@
 
 
   ** Firebase and Location Queries**
-
   - Firebase basic [setup](https://firebase.google.com/docs/database/android/start/)
   - Geofire [official](https://github.com/firebase/geofire)
   - Firebase and geofire to serch peoples within given radious [tutorial](https://www.youtube.com/watch?v=jvhD7-q45_w&list=PLaoF-xhnnrRULoWAGjWJ79-BwD1mAMwB0&index=8)
@@ -87,7 +86,7 @@
 
   ** MVVM Architecture **
   - Florina's post on [medium](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
-
+  - Nice video Tutorial [link](https://resocoder.com/2018/08/31/introduction-to-mvvm-on-android/)
 
   ** Architectural Component **
 
