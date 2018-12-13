@@ -110,3 +110,8 @@
 
 ** Guide to add Credits/Acknowledgement on app **
   - Bignerdranch blog [post](https://www.bignerdranch.com/blog/open-source-licenses-and-android/)
+
+
+** Pdf Library **
+  - [foxit](https://developers.foxitsoftware.com/kb/article/developer-guide-foxit-pdf-sdk-for-mobile-android/)
+  - [barteksc](https://github.com/barteksc/AndroidPdfViewer?fbclid=IwAR3ittDfP4YhGa9Mlvf7pa0DsMrGdmXYCTwJIt24eI_eee-nkpLjHeSYmeQ) 
